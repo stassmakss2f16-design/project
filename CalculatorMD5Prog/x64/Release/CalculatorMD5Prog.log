@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Work\source\repos\CalculatorMD5Prog\CalculatorMD5Prog\Md5Class.h(4,10): error C1083: Не удается открыть файл включение: openssl/md5.h: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
+  Md5Class.cpp
+C:\Users\Work\source\repos\CalculatorMD5Prog\CalculatorMD5Prog\Md5Class.h(4,10): error C1083: Не удается открыть файл включение: openssl/md5.h: No such file or directory,
+  (компиляция исходного файла "Md5Class.cpp")
+  
